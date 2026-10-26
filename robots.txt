@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kristcodetaylor.github.io/world-in-a-jar-legal/sitemap.xml
